@@ -4,7 +4,7 @@
 ```c
 record.sh
 ```
-### 학습
+### ACT 학습
 ```c
 train.sh
 ```
